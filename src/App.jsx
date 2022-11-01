@@ -25,16 +25,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
-          </a>
-          {' | '}
-          <a
-            className="App-link"
-            href="https://vitejs.dev/guide/features.html"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Vite Docs
+            Learn React with sairam
           </a>
         </p>
       </header>
